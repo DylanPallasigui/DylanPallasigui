@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DylanPallasigui
+- 👀 I’m interested in coding, software development, and game development
+- 🌱 I’m currently learning: How to program in Lua
+- 💞️ I’m looking to collaborate on: Just about anything
+- 📫 How to reach me: dtapallasigui@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been to about 11+ countries within 2 weeks
